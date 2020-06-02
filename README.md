@@ -7,7 +7,7 @@ wget get https://raw.githubusercontent.com/CyberSensei1/avalabs-denali-node-upti
 chmod +x uptime.sh  
 
 # Çalıştırma:  
-./uptime NODE_ID_NIZ  
+./uptime "NODE_ID_NIZ"  
     
 # Örnek:  
 ./uptime.sh "7mput1g6Rssn7PXxz4qb3TVfTzp7UGsDP  
